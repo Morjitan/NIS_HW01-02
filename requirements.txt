@@ -1,0 +1,14 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+SQLAlchemy==2.0.37
+pydantic==2.10.6
+pytest==8.3.4
+httpx
+pytest-cov
+allure-pytest
+ruff
+black
+isort
+pre-commit
+mypy
+
